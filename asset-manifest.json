@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6b15c97a.css",
-    "main.js": "/static/js/main.fe5e068e.js",
-    "index.html": "/index.html",
-    "main.6b15c97a.css.map": "/static/css/main.6b15c97a.css.map",
-    "main.fe5e068e.js.map": "/static/js/main.fe5e068e.js.map"
+    "main.css": "/fecoptions/static/css/main.6b15c97a.css",
+    "main.js": "/fecoptions/static/js/main.fe5e068e.js",
+    "index.html": "/fecoptions/index.html",
+    "main.6b15c97a.css.map": "/fecoptions/static/css/main.6b15c97a.css.map",
+    "main.fe5e068e.js.map": "/fecoptions/static/js/main.fe5e068e.js.map"
   },
   "entrypoints": [
     "static/css/main.6b15c97a.css",
